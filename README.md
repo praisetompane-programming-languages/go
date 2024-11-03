@@ -1,6 +1,6 @@
 # an in-depth study of Go
 
-- language reference:
+- language reference: https://go.dev/ref/spec
 	- the syntax and semantics description
 	- key topics:
 		- implementations
@@ -9,10 +9,10 @@
 			- standard type hierarchy
 		- execution model
 - base modules index: 
-- standard library reference: 
+- standard library reference: https://pkg.go.dev/std
 	- commonly used and required features of a language
 		e.g. collections
-- packaging and package management:
+- packaging and package management: https://go.dev/ref/mod
 	- guide: 
 	- tools:
     - third party modules/packages index: 
@@ -20,8 +20,9 @@
 	- testing: 
 - extending and embedding:
 - compiler/interpreter:
-- developer contribution guide:
-- history and usage:
+- memory model: https://go.dev/ref/mem
+- developer contribution guide: https://go.dev/doc/contribute
+- history and usage: https://go.dev/doc/devel/release
 	- the style of effective programs, with emphasis on idioms
 	- fundamentals
 		- value declaration
