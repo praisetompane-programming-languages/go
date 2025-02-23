@@ -1,10 +1,14 @@
 # Go
 
-**objective**: an in-depth study of Go, its implementation and ecosystem.
+![build status](https://github.com/praisetompane-programming-languages/go/actions/workflows/go.yaml/badge.svg) <br>
+
+**objective**: An in-depth study of:
+- Go's Compiler.
+- Go's language design, implementation and ecosystem.
 
 ## Language Details: 
 - [language reference](https://go.dev/ref/spec)
-- [compiler/interpreter](https://github.com/golang/go)
+- [compiler](https://github.com/golang/go)
 - [base modules index]()
 - [standard library reference](https://pkg.go.dev/std)
 - package management: 

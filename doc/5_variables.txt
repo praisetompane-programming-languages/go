@@ -13,13 +13,13 @@ Example:
 
     import "fmt"
 
-    func double(intialValue int) int {
+    func double(initial_value int) int {
         //function level
-        var doubleValue = intialValue * 2
-        return doubleValue
+        var double_value = initial_value * 2
+        return double_value
     }
 
     //package level
-    var startValue int = 1
-    fmt.Println(double(startValue))
+    var start_value int = 1
+    fmt.Println(double(start_value))
 
